@@ -1,4 +1,4 @@
-# Mitotic Nuclei Detection in Breast Cancer Histopathological Images
+# Mitotic Nuclei Analysis in Breast Cancer Histopathological Images
 </b>
 This repository is the implementation of paper “Mitotic nuclei analysis in breast cancer histopathology images using deep ensemble classifier” published in Medical Image Analysis, https://doi.org/10.1016/j.media.2021.102121. 
 
